@@ -1,0 +1,14 @@
+/Users/irmvvn_d_vinci/Documents/Chess-backend/bin/Debug/net10.0/Chess-backend
+/Users/irmvvn_d_vinci/Documents/Chess-backend/bin/Debug/net10.0/Chess-backend.deps.json
+/Users/irmvvn_d_vinci/Documents/Chess-backend/bin/Debug/net10.0/Chess-backend.runtimeconfig.json
+/Users/irmvvn_d_vinci/Documents/Chess-backend/bin/Debug/net10.0/Chess-backend.dll
+/Users/irmvvn_d_vinci/Documents/Chess-backend/bin/Debug/net10.0/Chess-backend.pdb
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/Chess-backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/Chess-backend.AssemblyInfoInputs.cache
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/Chess-backend.AssemblyInfo.cs
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/Chess-backend.csproj.CoreCompileInputs.cache
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/Chess-backend.dll
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/refint/Chess-backend.dll
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/Chess-backend.pdb
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/Chess-backend.genruntimeconfig.cache
+/Users/irmvvn_d_vinci/Documents/Chess-backend/obj/Debug/net10.0/ref/Chess-backend.dll
